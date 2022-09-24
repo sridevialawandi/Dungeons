@@ -1,4 +1,4 @@
-Procedural Content Generation of Dungeons
+<b><h3>Procedural Content Generation of Dungeons</h3></b>
 
 Intructions to run:
 - Press “c” while in play mode to change the layout according to the random seed generated and also place the treasure boxes, pile of stones at random places on the ground.
