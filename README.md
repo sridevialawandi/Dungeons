@@ -6,4 +6,4 @@ Intructions to run:
 - Pressing the Spacebar switches the camera from third person to first person mode. Use the mouse and WASD to navigate through the cave in first person mode.
 
 
-https://github.com/sridevialawandi/Dungeons/blob/main/Dungeons.gif 
+![](https://github.com/sridevialawandi/Dungeons/blob/main/Dungeons.gif)
